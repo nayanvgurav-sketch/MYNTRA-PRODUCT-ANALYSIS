@@ -105,12 +105,12 @@ Raw Dataset → Python Cleaning → SQL Analysis → Power BI Dashboard
 ## 📁 Project Files
 ```
 📦 myntra-data-analysis
- ┣ 📄 project myntra.sql
+ ┣ 📄 README.md
+ ┣ 📄 MYNTRA RAW DATASET.csv.gz
+ ┣ 📄 Myntra Business Problem Document.docx
  ┣ 📄 project myntra.sql
  ┣ 📄 MYNTRA PROJECT.ipynb
  ┣ 📊 MYNTRA.pbix
- ┣ 📄 Myntra Business Problem Document.docx
- ┣ 📄 README.md
  ┣ 📊 MYNTRA PRESENTATION.pptx
 
 ```
